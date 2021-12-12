@@ -1,0 +1,6 @@
+C:\Users\Никита\source\repos\Тестовое\Calculation\Calculation\bin\Debug\Calculation.dll
+C:\Users\Никита\source\repos\Тестовое\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Никита\source\repos\Тестовое\Calculation\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Тестовое\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Тестовое\Calculation\Calculation\obj\Debug\Calculation.dll
+C:\Users\Никита\source\repos\Тестовое\Calculation\Calculation\obj\Debug\Calculation.pdb
